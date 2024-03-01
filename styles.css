@@ -5,6 +5,7 @@ footer{
 }
 footer .content .top{
 	display:flex;
+	padding-top:10px;
 	height:auto;
 }
 footer .content .logo-details{
