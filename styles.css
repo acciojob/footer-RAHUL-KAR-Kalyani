@@ -66,5 +66,8 @@ footer .bottom-details table tr td{
 }
 footer .last{
 	color:white;
+	background-color:grey;
+	align-items:center;
+	height:50px;
 	display:flex
 }
